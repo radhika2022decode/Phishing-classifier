@@ -44,6 +44,8 @@ http://bit.ly/securebanking
 
 ## Install required packages
 pip install -r requirements.txt
+
 pip install notebook
+
 jupyter notebook
 
