@@ -10,6 +10,7 @@ This project aims to detect phishing websites using a manually engineered featur
 ### 1. Clone the Repository
 bash
 git clone https://github.com/radhika2022decode/Phishing-classifier.git
+
 cd Phishing-classifier
 
 
@@ -34,8 +35,11 @@ No pre-trained models or libraries are used for feature extraction
 
 ## Sample urls
 https://example.com/login.php
+
 http://192.168.1.1/verify-account
+
 https://www.google.com
+
 http://bit.ly/securebanking
 
 ## Install required packages
